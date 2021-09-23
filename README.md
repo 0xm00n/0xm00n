@@ -1,6 +1,4 @@
-# m00n
-
-![HTB](http://www.hackthebox.eu/badge/image/380461)
+# despair
 
 i like computers :)
 
