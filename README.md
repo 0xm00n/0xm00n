@@ -1,6 +1,6 @@
 # m00n
 
-i like computers :)
+working on a lot of projects incognito, coming soon :)
 
 <br>
 
