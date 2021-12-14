@@ -10,15 +10,13 @@
 m00n@m00n
 ----------------
 
-python, java, go, c, scala, rust, x86 ASM
-
        OS  :  Ubuntu 20.04.3 LTS on Windows 10 x86_64
    Kernel  :  m00n-kernel-WSL2
     Shell  :  zsh 5.8
  Terminal  :  /dev/pts/0
       CPU  :  AMD Ryzen 9 5900HX with Radeon Graphics (16) @ 3.293GHz
   Domains  :  quant finance, ML, cybersecurity
-Languages  :  Python/Go/Java/JS/C/C++/Scala/x86 ASM
+Languages  :  Python,Golang,Java,JS,C,C++,Scala,x86 ASM
 ```
 
 <p align="left">
