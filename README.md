@@ -6,7 +6,7 @@
 
 <img align="left" src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" alt="logo.png" width="200" /> 
 
-```csharp
+```python
 m00n@m00n
 ----------------
 
@@ -17,6 +17,7 @@ m00n@m00n
       CPU  :  AMD Ryzen 9 5900HX with Radeon Graphics (16) @ 3.293GHz
   Domains  :  quant finance, ML, cybersecurity
 Languages  :  Python, Golang, Java, JS, C, C++, Scala, x86 ASM (learning Rust)
+
 ```
 
 <p align="left">
