@@ -16,7 +16,7 @@ m00n@m00n
  Terminal  :  /dev/pts/0
       CPU  :  AMD Ryzen 9 5900HX with Radeon Graphics (16) @ 3.293GHz
   Domains  :  quant finance, ML, cybersecurity
-Languages  :  Python, Golang, Java, JS, C, C++, Scala, x86 ASM (learning Rust)
+Languages  :  Python, Golang, Java, JS, C, C++, Scala, x86/x86_64 ASM (learning Rust)
 
 ```
 
