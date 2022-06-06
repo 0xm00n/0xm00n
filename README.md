@@ -14,7 +14,7 @@ current interests:
 └────────────────────────────────────────────────────────────────────────────┘
 │ » financial ML (cryptoassets)                                              │
 └────────────────────────────────────────────────────────────────────────────┘
-│ » ELF (code golfing, malware/viruses, polyglot binaries, etc.)             │
+│ » ELF (code golfing, malware research, polyglot binaries, etc.)             │
 └────────────────────────────────────────────────────────────────────────────┘
 │ » industrial PLC security research (0days/PoCs)                            │
 └────────────────────────────────────────────────────────────────────────────┘
