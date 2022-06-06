@@ -1,25 +1,16 @@
-```zsh
- m00n@m00n » neofetch
+
+
 ```
-
-<img align="left" src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" alt="logo.png" width="200" /> 
-
-```python
 m00n@m00n
-----------------
+-------------
 
-       OS  :  Ubuntu 20.04.3 LTS on Windows 10 x86_64
-   Kernel  :  m00n-kernel-WSL2
-    Shell  :  zsh 5.8
- Terminal  :  /dev/pts/0
-      CPU  :  AMD Ryzen 9 5900HX with Radeon Graphics (16) @ 3.293GHz
-
+current interests:
+  » hierarchical temporal memory (alternative machine learning theories)
+  » deep learning framework from scratch
+  » financial ML (cryptoassets)
+  » ELF (code golfing, malware/viruses, polyglot binaries, etc.)
+  » industrial PLC security research (0days/PoCs)
 ```
-
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- 
-</p>
 
 
 <br>
