@@ -1,15 +1,23 @@
 
 
 ```
-royce@m00n
--------------
+╔════════════╗
+║ royce@m00n ║
+╚════════════╝
+
 
 current interests:
-  » hierarchical temporal memory (alternative machine learning theories)
-  » deep learning framework from scratch
-  » financial ML (cryptoassets)
-  » ELF (code golfing, malware/viruses, polyglot binaries, etc.)
-  » industrial PLC security research (0days/PoCs)
+┌────────────────────────────────────────────────────────────────────────────┐
+│ » hierarchical temporal memory (alternative machine learning theories)     │
+└────────────────────────────────────────────────────────────────────────────┘
+│ » deep learning framework from scratch                                     │
+└────────────────────────────────────────────────────────────────────────────┘
+│ » financial ML (cryptoassets)                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+│ » ELF (code golfing, malware/viruses, polyglot binaries, etc.)             │
+└────────────────────────────────────────────────────────────────────────────┘
+│ » industrial PLC security research (0days/PoCs)                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 
