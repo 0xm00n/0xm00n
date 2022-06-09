@@ -8,13 +8,13 @@
 
 current interests:
 ┌────────────────────────────────────────────────────────────────────────────┐
-│ » hierarchical temporal memory (alternative machine learning theories)     │
-└────────────────────────────────────────────────────────────────────────────┘
-│ » deep learning framework from scratch                                     │
+│ » stealth mode startup (B2B SaaS)                                          │
 └────────────────────────────────────────────────────────────────────────────┘
 │ » financial ML (cryptoassets)                                              │
 └────────────────────────────────────────────────────────────────────────────┘
-│ » ELF (code golfing, malware research, polyglot binaries, etc.)             │
+│ » quantitative finance                                                     │
+└────────────────────────────────────────────────────────────────────────────┘
+│ » ELF (code golfing, malware research, polyglot binaries, etc.)            │
 └────────────────────────────────────────────────────────────────────────────┘
 │ » industrial PLC security research (0days/PoCs)                            │
 └────────────────────────────────────────────────────────────────────────────┘
