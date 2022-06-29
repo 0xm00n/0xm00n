@@ -15,7 +15,7 @@ current interests:
 └────────────────────────────────────┘
 │ » cryptoassets/DeFi                │
 └────────────────────────────────────┘
-│ » PLC security research            │
+│ » PLC/SCADA security research      │
 └────────────────────────────────────┘
 ```
 
