@@ -1,12 +1,27 @@
+<details open>
+    <summary>README</summary>
+ 
+ 
+ ### machine learning / security researcher
 
-
+```
+current interests:
+┌────────────────────────────────────┐
+│ » startups                         │
+└────────────────────────────────────┘
+│ » hierarchical temporal memory     │
+└────────────────────────────────────┘
+│ » quant finance/financial ML       │
+└────────────────────────────────────┘
+│ » cryptoassets/DeFi                │
+└────────────────────────────────────┘
+│ » PLC security research            │
+└────────────────────────────────────┘
+```
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=0xm00n&style=flat-square)
-
-<br>
-
 
 ### <b> languages: <b>
  <img src="https://user-images.githubusercontent.com/71098497/163659593-587411e8-76b5-4882-9c28-8d6f533d4b24.png" alt="python" width="40"/>
