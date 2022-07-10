@@ -3,21 +3,7 @@
  
  
  ### machine learning / security researcher
-
-```
-current interests:
-┌────────────────────────────────────┐
-│ » startups                         │
-└────────────────────────────────────┘
-│ » hierarchical temporal memory     │
-└────────────────────────────────────┘
-│ » quant finance/financial ML       │
-└────────────────────────────────────┘
-│ » cryptoassets/DeFi                │
-└────────────────────────────────────┘
-│ » PLC/SCADA security research      │
-└────────────────────────────────────┘
-```
+ 
 
 <br>
 
