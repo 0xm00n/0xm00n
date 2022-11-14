@@ -2,7 +2,7 @@
     <summary>README</summary>
  
  
- ### Machine Learning & Security Researcher, Founder
+ ### Machine Learning Researcher, Founder, Security Researcher
  
 
 <br>
