@@ -1,8 +1,17 @@
 <details open>
     <summary>README</summary>
- 
- 
- ### Machine Learning Researcher, Founder, Security Researcher
+    
+<br>
+    
+- IoT security researcher
+- brain-based AI / continual learning / neuromorphic computing
+- algorithmic trading
+
+---
+
+```
+languages: Python | C++ | Rust | OCaml
+```
  
 
 <br>
