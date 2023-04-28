@@ -3,7 +3,7 @@
     
 <br>
     
-- IoT security researcher
+- IoT security
 - brain-based AI / continual learning / neuromorphic computing
 - algorithmic trading
 
