@@ -8,7 +8,7 @@
 
 ---
 
-```
+```python
 languages: Python | C++ | Rust | OCaml
 ```
  
