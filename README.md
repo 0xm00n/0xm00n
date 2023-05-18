@@ -4,7 +4,7 @@
 <br>
     
 - brain-based AI / continual learning / neuromorphic computing
-- IoT/ICS security research 
+- IoT / ICS security research 
 
 ---
 
