@@ -3,9 +3,8 @@
     
 <br>
     
-- IoT security
 - brain-based AI / continual learning / neuromorphic computing
-- algorithmic trading
+- IoT/ICS security research 
 
 ---
 
