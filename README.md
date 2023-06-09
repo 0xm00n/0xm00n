@@ -3,8 +3,7 @@
     
 <br>
     
-- brain-based AI / continual learning / neuromorphic computing
-- IoT / ICS security research 
+- Founder, AI & Security Researcher
 
 ---
 
