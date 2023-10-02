@@ -2,14 +2,9 @@
     <summary>README</summary>
     
 <br>
-    
-- Founder, AI & Security Researcher
 
----
+i like to study cognitive AI
 
-```python
-languages: Python | C++ | Rust | OCaml
-```
  
 
 <br>
