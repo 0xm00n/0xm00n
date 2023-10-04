@@ -3,9 +3,16 @@
     
 <br>
 
-interested in the relationship between mind+brain+machines, gravitational astrophysics (binary black hole mergers), 0day research, and [fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
 
-gist: [0xm00n.gist](https://gist.github.com/0xm00n)
+**Interests**:
+- relationship between mind+brain+machines
+- gravitational astrophysics (binary black hole mergers)
+- 0day research
+- [fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
+
+<br>
+
+**gist**: [0xm00n.gist](https://gist.github.com/0xm00n)
 
  
 
