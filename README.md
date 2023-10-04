@@ -3,7 +3,9 @@
     
 <br>
 
-i like to study cognitive AI
+i like to study cognitive AI 
+
+gist: [0xm00n.gist](https://gist.github.com/0xm00n)
 
  
 
