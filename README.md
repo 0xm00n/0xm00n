@@ -10,7 +10,7 @@
 - relationship between mind+brain+machines
 - gravitational astrophysics (binary black hole mergers)
 - 0day research
-- [fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
+- [fuzzing](https://en.wikipedia.org/wiki/Fuzzing)/static taint analysis
 
 <br>
 
