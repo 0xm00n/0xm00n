@@ -3,12 +3,14 @@
     
 <br>
 
+`current undergrad studying computer science + complex systems`
+
 **Interests**:
 - deep learning theory
 - free energy principle/active inference
 - brain-based AI (comp neuro + cognitive theory)
 - complex systems
-- metacomplexity
+- meta-complexity
 - 0day research
   
 <br>
