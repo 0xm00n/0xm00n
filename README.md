@@ -9,6 +9,7 @@
 - deep learning theory
 - free energy principle/active inference
 - brain-based AI (comp neuro + cognitive theory)
+- philosophy of AI
 - complex systems
 - meta-complexity
 - 0day research
